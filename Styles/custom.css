@@ -1,0 +1,23 @@
+body{
+	/*background-color: lightblue;*/
+}
+.bg1{
+	background-color: lightblue;
+	padding-top: 30px;
+}
+.bg2{
+	background-color: white;
+	padding-top: 40px;
+}
+.bg3{
+	background-color: purple;
+	padding-top: 80px;
+}
+.bg4{
+	background-color: grey;
+	padding-top: 80px;
+}
+/*.container-fluid{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}*/
